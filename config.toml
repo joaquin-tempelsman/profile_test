@@ -2,7 +2,7 @@
 
 baseurl = "http://example.org/"
 languageCode = "en-us"
-title = "John Doe Resume"
+title = "Joaquin Tempelsman Profile"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -14,7 +14,7 @@ disable404 = true
 [params]
 
 # Meta
-    description = "Hugo Responsive Resume/CV Theme for Developers"
+    description = "TEST JOA TEST"
     author = "Pavel Kanyshev"
 
 # Theme styles
@@ -80,7 +80,7 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
+        degree = "MSc in Computer Science Computer Science Computer Science"
         college = "University of London"
         dates = "2006 - 2010"
 
